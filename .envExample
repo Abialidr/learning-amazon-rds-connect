@@ -1,0 +1,6 @@
+// remove Example from file name and use it as normal .env file (rename this file name to .env)
+DATABASE_NAME=''
+DATABASE_USERNAME=''
+DATABASE_PASSWORD=''
+DATABASE_ENDPOINT=''
+DATABASE_DIALECT=''
